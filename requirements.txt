@@ -1,0 +1,8 @@
+django
+torch
+matplotlib
+opencv-python
+Pillow
+utils
+tensorboard
+torchvision

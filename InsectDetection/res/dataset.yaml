@@ -1,0 +1,9 @@
+train: res/IMAGES/TRAIN/
+val: res/IMAGES/VAL/
+
+#number of classes
+nc: 5
+
+#Class NAmes
+
+names: ['0','1','2','3','4']

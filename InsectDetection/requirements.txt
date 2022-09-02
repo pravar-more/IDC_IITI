@@ -1,0 +1,8 @@
+tensorflow==2.5.1
+tensorboard==2.4.1
+opencv-python
+torch
+matplotlib
+Pillow
+utils
+torchvision
